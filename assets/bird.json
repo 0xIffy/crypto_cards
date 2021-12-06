@@ -1,0 +1,23 @@
+{
+  "name": "Fawkes",
+  "symbol": "",
+  "image": "bird.png",
+  "collection": {
+    "name": "Crypto Cards v1",
+    "family": "CryptoCards"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "bird.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E79c9j1PnfqHeLM2NhJTCQJu9x9DEoo1ESUcP7oRtjy5",
+        "share": 100
+      }
+    ]
+  }
+}

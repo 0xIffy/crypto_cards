@@ -1,0 +1,23 @@
+{
+  "name": "Anubis",
+  "symbol": "",
+  "image": "dog.png",
+  "collection": {
+    "name": "Crypto Cards v1",
+    "family": "CryptoCards"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "dog.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E79c9j1PnfqHeLM2NhJTCQJu9x9DEoo1ESUcP7oRtjy5",
+        "share": 100
+      }
+    ]
+  }
+}
